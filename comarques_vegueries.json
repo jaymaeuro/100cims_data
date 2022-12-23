@@ -1,0 +1,288 @@
+[
+    {
+        "name": "Alt Segre",
+        "id": 0,
+        "children": [
+            {
+                "name": "Alta Cerdanya",
+                "id": 48
+            },
+            {
+                "name": "Cerdanya",
+                "id": 15
+            },
+            {
+                "name": "Capcir",
+                "id": 44
+            },
+            {
+                "name": "Alt Urgell",
+                "id": 4
+            }
+        ]
+    },
+    {
+        "name": "Andorra",
+        "id": 14,
+        "children": [
+            {
+                "name": "Andorra",
+                "id": 43
+            }
+        ]
+    },
+    {
+        "name": "Aran",
+        "id": 1,
+        "children": [
+            {
+                "name": "Aran",
+                "id": 39
+            }
+        ]
+    },
+    {
+        "name": "Barcelona",
+        "id": 2,
+        "children": [
+            {
+                "name": "Baix Llobregat",
+                "id": 11
+            },
+            {
+                "name": "Barcelonès",
+                "id": 13
+            }
+        ]
+    },
+    {
+        "name": "Camp",
+        "id": 3,
+        "children": [
+            {
+                "name": "Alt Camp",
+                "id": 1
+            },
+            {
+                "name": "Baix Camp",
+                "id": 8
+            },
+            {
+                "name": "Conca de Barberà",
+                "id": 16
+            },
+            {
+                "name": "Priorat",
+                "id": 29
+            },
+            {
+                "name": "Tarragonès",
+                "id": 36
+            }
+        ]
+    },
+    {
+        "name": "Catalunya Nord",
+        "id": 4,
+        "children": [
+            {
+                "name": "Conflent",
+                "id": 45
+            },
+            {
+                "name": "Rosselló",
+                "id": 46
+            },
+            {
+                "name": "Vallespir",
+                "id": 47
+            }
+        ]
+    },
+    {
+        "name": "Costa Brava",
+        "id": 5,
+        "children": [
+            {
+                "name": "Selva",
+                "id": 34
+            },
+            {
+                "name": "Pla de l'Estany",
+                "id": 28
+            },
+            {
+                "name": "Gironès",
+                "id": 20
+            },
+            {
+                "name": "Baix Empordà",
+                "id": 10
+            },
+            {
+                "name": "Alt Empordà",
+                "id": 2
+            }
+        ]
+    },
+    {
+        "name": "Ebre",
+        "id": 6,
+        "children": [
+            {
+                "name": "Terra Alta",
+                "id": 37
+            },
+            {
+                "name": "Ribera d'Ebre",
+                "id": 30
+            },
+            {
+                "name": "Montsià",
+                "id": 22
+            },
+            {
+                "name": "Baix Ebre",
+                "id": 9
+            }
+        ]
+    },
+    {
+        "name": "Llobregat",
+        "id": 7,
+        "children": [
+            {
+                "name": "Solsonès",
+                "id": 35
+            },
+            {
+                "name": "Bages",
+                "id": 7
+            },
+            {
+                "name": "Berguedà",
+                "id": 14
+            }
+        ]
+    },
+    {
+        "name": "Maresme",
+        "id": 8,
+        "children": [
+            {
+                "name": "Maresme",
+                "id": 21
+            }
+        ]
+    },
+    {
+        "name": "Penedès",
+        "id": 9,
+        "children": [
+            {
+                "name": "Garraf",
+                "id": 17
+            },
+            {
+                "name": "Baix Penedès",
+                "id": 12
+            },
+            {
+                "name": "Anoia",
+                "id": 6
+            },
+            {
+                "name": "Alt Penedès",
+                "id": 3
+            }
+        ]
+    },
+    {
+        "name": "Ponent",
+        "id": 10,
+        "children": [
+            {
+                "name": "Urgell",
+                "id": 38
+            },
+            {
+                "name": "Segrià",
+                "id": 33
+            },
+            {
+                "name": "Segarra",
+                "id": 32
+            },
+            {
+                "name": "Pla d'Urgell",
+                "id": 27
+            },
+            {
+                "name": "Noguera",
+                "id": 23
+            },
+            {
+                "name": "Garrigues",
+                "id": 18
+            }
+        ]
+    },
+    {
+        "name": "Ribagorça i Pallars",
+        "id": 11,
+        "children": [
+            {
+                "name": "Alta Ribagorça",
+                "id": 5
+            },
+            {
+                "name": "Alta Ribagorça",
+                "id": 5
+            },
+            {
+                "name": "Pallars Jussà",
+                "id": 25
+            },
+            {
+                "name": "Pallars Sobirà",
+                "id": 26
+            }
+        ]
+    },
+    {
+        "name": "Ter-Garrotxa",
+        "id": 12,
+        "children": [
+            {
+                "name": "Garrotxa",
+                "id": 19
+            },
+            {
+                "name": "Osona",
+                "id": 24
+            },
+            {
+                "name": "Ripollès",
+                "id": 31
+            }
+        ]
+    },
+    {
+        "name": "Vallès",
+        "id": 13,
+        "children": [
+            {
+                "name": "Vallès Occidental",
+                "id": 40
+            },
+            {
+                "name": "Moianès",
+                "id": 42
+            },
+            {
+                "name": "Vallès Oriental",
+                "id": 41
+            }
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "vegueria": "Aran"
+  },
+  {
+    "id": "2",
+    "vegueria": "Barcelona"
+  },
+  {
+    "id": "3",
+    "vegueria": "Camp"
+  },
+  {
+    "id": "5",
+    "vegueria": "Costa Brava"
+  },
+  {
+    "id": "6",
+    "vegueria": "Ebre"
+  },
+  {
+    "id": "7",
+    "vegueria": "Llobregat"
+  },
+  {
+    "id": "8",
+    "vegueria": "Maresme"
+  },
+  {
+    "id": "9",
+    "vegueria": "Penedès"
+  },
+  {
+    "id": "10",
+    "vegueria": "Ponent"
+  },
+  {
+    "id": "12",
+    "vegueria": "Ter-Garrotxa"
+  },
+  {
+    "id": "13",
+    "vegueria": "Vallès"
+  },
+  {
+    "id": "11",
+    "vegueria": "Ribagorça i Pallars"
+  },
+  {
+    "id": "0",
+    "vegueria": "Alt Segre"
+  },
+  {
+    "id": "4",
+    "vegueria": "Catalunya Nord"
+  }
+]
